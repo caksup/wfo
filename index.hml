@@ -62,6 +62,8 @@
 
     <script src="wfi-bl.js" type="text/javascript"></script>
     <script src="/a.js" type="text/javascript"></script>
+<script type='text/javascript' src='https://caksup.github.io/wfo/a/wfobl.js'></script>
+<script type='text/javascript' src='https://caksup.github.io/wfo/a/a.js'></script>
 
 </body>
 <html>
