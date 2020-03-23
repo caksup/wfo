@@ -1,3 +1,5 @@
+https://caksup.github.io/wfo/
+
 echo "# wfo" >> README.md
 git init
 git add README.md
