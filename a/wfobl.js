@@ -1,0 +1,1 @@
+document.write('<div style="position: fixed; bottom: 10px; left: 10px;width:100px;height:100px; z-index:9999"><a href="http://cs-sx.blogspot.com" target="_blank"><img border="0" src="https://3.bp.blogspot.com/-yFdKDbCjKXY/UUGR5eS5CyI/AAAAAAAAFK8/9zQRUxQ8QO0/s1600/bola.gif" title="My widget" alt="animasi  bergerak gif"></a></div>');
